@@ -1,0 +1,35 @@
+.title{
+    text-transform: uppercase;
+    text-align: center;
+}
+.profile-pic{
+    vertical-align: middle;
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+}
+.avatar-wrapper{
+    margin : 20px auto;
+    width: 141px;
+    cursor: pointer;
+}
+.avatar-wrapper:hover{
+
+}
+.fa-camera{
+    font-size: 41px;
+    position: absolute;
+    top: 173px;
+    right: 246px;
+    display: none;
+}
+.file-upload{
+    display: none;
+}
+
+.input-profile{
+    border-radius: 10px;
+}
+.error-message{
+    color: red;
+}
